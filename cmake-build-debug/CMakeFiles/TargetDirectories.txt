@@ -1,0 +1,7 @@
+D:/ClionProjects/MyCNet/cmake-build-debug/CMakeFiles/MyCNet.dir
+D:/ClionProjects/MyCNet/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/ClionProjects/MyCNet/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/ClionProjects/MyCNet/cmake-build-debug/test/CMakeFiles/matrix_test.dir
+D:/ClionProjects/MyCNet/cmake-build-debug/test/CMakeFiles/rebuild_cache.dir
+D:/ClionProjects/MyCNet/cmake-build-debug/test/CMakeFiles/debug_test.dir
+D:/ClionProjects/MyCNet/cmake-build-debug/test/CMakeFiles/edit_cache.dir

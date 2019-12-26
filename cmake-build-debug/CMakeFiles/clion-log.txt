@@ -1,0 +1,4 @@
+"C:\Program Files\CMake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" D:\ClionProjects\MyCNet
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/ClionProjects/MyCNet/cmake-build-debug

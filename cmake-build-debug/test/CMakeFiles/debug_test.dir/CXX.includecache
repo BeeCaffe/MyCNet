@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/ClionProjects/MyCNet/include/EnvMsg.h
+
+D:/ClionProjects/MyCNet/include/RunTimeError.h
+EnvMsg.h
+D:/ClionProjects/MyCNet/include/EnvMsg.h
+string
+-
+
+D:/ClionProjects/MyCNet/test/debug_test.cpp
+../include/RunTimeError.h
+D:/ClionProjects/MyCNet/include/RunTimeError.h
+

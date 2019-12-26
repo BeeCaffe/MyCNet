@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/ClionProjects/MyCNet/include/EnvMsg.h
+
+D:/ClionProjects/MyCNet/include/Matrix.h
+vector
+-
+stdlib.h
+-
+iostream
+-
+typeinfo
+-
+EnvMsg.h
+D:/ClionProjects/MyCNet/include/EnvMsg.h
+RunTimeError.h
+D:/ClionProjects/MyCNet/include/RunTimeError.h
+cmath
+-
+
+D:/ClionProjects/MyCNet/include/RunTimeError.h
+EnvMsg.h
+D:/ClionProjects/MyCNet/include/EnvMsg.h
+string
+-
+
+D:/ClionProjects/MyCNet/test/matrix_test.cpp
+../include/Matrix.h
+D:/ClionProjects/MyCNet/include/Matrix.h
+
